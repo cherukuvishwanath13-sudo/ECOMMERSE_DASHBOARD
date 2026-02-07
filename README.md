@@ -163,7 +163,7 @@ The dataset contains the following columns:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/cherukuvishwanath13-sudo/ECOMMERSE_DASHBOARD/blob/main/Ecommerce_DashBoard_IMG.png)
 
 
 
